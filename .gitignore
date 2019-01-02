@@ -13061,3 +13061,5 @@ target/classes/META-INF/resources/webjars/jquery-easyui/themes/ui-sunny/window.c
 target/maven-archiver/pom.properties
 target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 target/motorcli-webjars-1.0.jar
+.idea/encodings.xml
+.idea/vcs.xml
